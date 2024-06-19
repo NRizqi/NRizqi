@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NRizqi
-- 👀 I’m interested in full stack developer
-- 🌱 I’m currently learning web development programming
-- 💞️ I’m looking to collaborate on (not now)
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning web development programming and Software Quality Assurance
+- 💞️ I’m looking to collaborate on
 - 📫 How to reach me, you can email me on noufalrnr@gmail.com
 
 <!---
